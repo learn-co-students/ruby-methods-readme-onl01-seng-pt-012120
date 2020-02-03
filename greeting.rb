@@ -1,4 +1,3 @@
-# Use this space to code along with the readme
 puts "Hello World"
 Hello World
 
@@ -41,3 +40,37 @@ Hello World
 Hello World
 Hello World
 Hello World
+def greeting
+  puts "Hello World"
+end
+$ ruby greeting.rb
+$
+
+def greeting
+  puts "Hello World"
+end
+
+greeting
+
+$ ruby greeting.rb
+Hello World
+$
+
+def greeting
+  puts "Hello World"
+end
+
+greeting
+greeting
+greeting
+greeting
+greeting
+
+$ ruby greeting.rb
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+$
+
